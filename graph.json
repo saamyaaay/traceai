@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    { "id": "A", "label": "Bank Account A" },
+    { "id": "B", "label": "Bank Account B" },
+    { "id": "C", "label": "Offshore Account C" },
+    { "id": "D", "label": "Shell Company D" }
+  ],
+  "edges": [
+    { "source": "A", "target": "B" },
+    { "source": "B", "target": "C" },
+    { "source": "C", "target": "D" },
+    { "source": "D", "target": "A" }
+  ]
+}
