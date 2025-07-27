@@ -1,5 +1,8 @@
 # Antimoneylaundering
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/aml-investigation-platform/main.svg)](https://github.com/yourusername/aml-investigation-platform/commits/main)
+[![Agent Status](https://img.shields.io/badge/Agent-Active-brightgreen)](#features)
 AML Investigation Platform
 Overview
 The AML Investigation Platform is an AI-powered tool designed to detect fraudulent transactions and generate Suspicious Activity Reports (SARs) for anti-money laundering (AML) compliance. Built using Python, this platform leverages a modular agent-based architecture to analyze transaction data, identify anomalies, investigate flagged cases, and provide regulatory reporting. The system includes an interactive Streamlit dashboard for visualization and monitoring, processing up to 10,000 transaction samples from the PaySim synthetic dataset.
