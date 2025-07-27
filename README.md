@@ -1,7 +1,6 @@
 # Antimoneylaundering
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/aml-investigation-platform/main.svg)](https://github.com/yourusername/aml-investigation-platform/commits/main)
 [![Agent Status](https://img.shields.io/badge/Agent-Active-brightgreen)](#features)
 AML Investigation Platform
 Overview
